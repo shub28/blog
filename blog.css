@@ -1,0 +1,43 @@
+body {
+	border: 20px solid #bdc3c7;
+	max-width: 700px;
+	width: 80%;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px; 
+    padding: 20px;
+    padding-top: 10px;
+    font-family: 'Source Sans Pro';
+}
+
+h1 {
+	
+	color: #2c3e50;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.date {
+	
+    color: #3498db;
+    letter-spacing: 3px;
+}
+
+p:nth-of-type(3) {
+	padding-bottom: 20px;
+	/*border-bottom: 1px solid lightgray;*/
+}
+
+.sides {
+	border-left: 4px solid #bdc3c7;
+	padding: 6px;
+	
+}
+
+/*Not supposed to understand just copy paste it from google*/
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
